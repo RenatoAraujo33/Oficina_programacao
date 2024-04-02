@@ -1,0 +1,16 @@
+img{
+height: 250px;
+
+}
+
+body{
+    background-color: gray;
+
+    color: aliceblue;
+}
+    
+.btn {
+    width: 40%;
+
+    margin-top: 5%;
+}
